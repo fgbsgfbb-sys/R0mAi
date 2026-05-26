@@ -1,0 +1,6 @@
+{
+  "name": "Rom AI",
+  "description": "Локальный запуск LM моделей весом от 3+ ГБ на устройствах с 1.5–2 ГБ ОЗУ, используя ROM как расширение памяти (swap/mmap/paging).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
